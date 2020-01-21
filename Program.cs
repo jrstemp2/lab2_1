@@ -51,6 +51,8 @@ namespace stempowskiLab2_1
                 goAgain = Console.ReadLine();
 
             } while (goAgain == "yes" || goAgain == "y");
+
+            Console.WriteLine("Thank you for using the Room Detail Generator!");
         }
     }
 }
