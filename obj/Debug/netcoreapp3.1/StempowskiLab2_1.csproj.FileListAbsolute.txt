@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Labs\lab2_1\StempowskiLab2_1\bin\Debug\netcoreapp3.1\StempowskiLab2_1.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Labs\lab2_1\StempowskiLab2_1\bin\Debug\netcoreapp3.1\StempowskiLab2_1.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Labs\lab2_1\StempowskiLab2_1\bin\Debug\netcoreapp3.1\StempowskiLab2_1.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Labs\lab2_1\StempowskiLab2_1\bin\Debug\netcoreapp3.1\StempowskiLab2_1.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Labs\lab2_1\StempowskiLab2_1\bin\Debug\netcoreapp3.1\StempowskiLab2_1.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Labs\lab2_1\StempowskiLab2_1\bin\Debug\netcoreapp3.1\StempowskiLab2_1.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Labs\lab2_1\StempowskiLab2_1\obj\Debug\netcoreapp3.1\StempowskiLab2_1.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Labs\lab2_1\StempowskiLab2_1\obj\Debug\netcoreapp3.1\StempowskiLab2_1.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Labs\lab2_1\StempowskiLab2_1\obj\Debug\netcoreapp3.1\StempowskiLab2_1.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Labs\lab2_1\StempowskiLab2_1\obj\Debug\netcoreapp3.1\StempowskiLab2_1.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Labs\lab2_1\StempowskiLab2_1\obj\Debug\netcoreapp3.1\StempowskiLab2_1.pdb
